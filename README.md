@@ -23,7 +23,7 @@
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-# Aplikasi Untuk Internetan Gratis Kartu Telkomsel
+<h1 align="center">Aplikasi Untuk Internetan Gratis</h1>
 
 <h2 align="center">
 
