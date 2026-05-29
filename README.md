@@ -14,7 +14,7 @@
 
 <h1 align="center">Persyaratan</h1>
 
-<h1 align="center">Unduh Aplikasi Http Custom Nya Dibawah Ini</h1>
+<h1 align="center">Unduh Aplikasi Http Custom Nya Dibawah Ini
 
 <h1 align="center">
   
