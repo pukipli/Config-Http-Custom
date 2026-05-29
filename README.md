@@ -113,7 +113,7 @@ Klik Disini👉
 Klik Disini👉
 [![Bug 0p0k Three](https://img.shields.io/badge/Bug0p0kThree-3%2B-yellow.svg?style=flat)](https://sfile.mobi/7pezDASeycJ)
 
-# Social Media
+<h1 align="center">Social Media</h1>
 
 <h2 align="center">
 
@@ -145,7 +145,7 @@ Klik Disini👉
 
 <img width="894" height="914" alt="Image" src="https://github.com/user-attachments/assets/81c5c1d7-2d52-4831-b8a6-b6740116d24e" />
 
-# Follow Me :
+<h1 align="center">Follow Me</h1>
 
 ‎‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
 ‎<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
