@@ -1,20 +1,20 @@
+<h1 align="center">Config-Http-Custom</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YouTube+@shopee_banjarmasin" />
+</p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@km7ujuh" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=pukipli" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
-</p>
+<img width="1080" height="1070" alt="Image" src="https://github.com/user-attachments/assets/3f62219f-dd1e-4f94-89f1-8131cf882175" />
 
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+<h2 align="center">
+  
+[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 <h2 align="center">
  
-[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
-
-# confighttpcustom
-<h2 align="center">
-
+<h1 align="center">Install</h1>
 <a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
@@ -62,10 +62,7 @@ Klik Disini👉
 
 Klik Disini👉[![Config Telkomsel BYU Opok Unlock SSH](https://img.shields.io/badge/ConfigTelkomselByuOpokUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/u8Y9cLIhTLs)
 
-# Kumpulan Bug All Operator Mei 2024
-
-Klik Disini👉
-[![Bug Telkomsel 0p0k](https://img.shields.io/badge/BugTelkomsel0p0k-11%2B-yellow.svg?style=flat)](https://sfile.mobi/bsoBOcDQqs7)
+# Kumpulan Bug All Operator
 
 Klik Disini👉
 [![Bug Telkomsel iLmuPedia](https://img.shields.io/badge/BugTelkomseliLmuOedia-13%2B-yellow.svg?style=flat)](https://sfile.mobi/1zgwntqWziZ)
@@ -115,68 +112,49 @@ Klik Disini👉
 Klik Disini👉
 [![Bug 0p0k Three](https://img.shields.io/badge/Bug0p0kThree-3%2B-yellow.svg?style=flat)](https://sfile.mobi/7pezDASeycJ)
 
-# Jangan Lupa Like Share Comment And Subscribe
+# Social Media
 
 <h2 align="center">
 
-[![Youtube Km7ujuh](https://img.shields.io/badge/YouTubeKm7ujuh-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
+[![shopee](https://img.shields.io/badge/shopee-200%2B-yellow.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
 
+[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
 
-[![Youtube Pemurus Dalam](https://img.shields.io/badge/YouTubePemurusDalam-7%2B-yellow.svg?style=flat)](https://www.youtube.com/@pemurusdalam)
-
-[![YouTube Hijrah Mebel Banjarmasin](https://img.shields.io/badge/YouTubeHijrahMebelBanjarmasin-6%2B-yellow.svg?style=flat)](https://www.youtube.com/@hijrahmebelbanjarmasin)
-
-[![Instagram Km7ujuh](https://img.shields.io/badge/InstagramKm7ujuh-65%2B-yellow.svg?style=flat)](https://www.instagram.com/km7ujuh)
-
-[![Instagram Kiplymacho](https://img.shields.io/badge/InstagramKiplymacho-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/kiplymacho)
-
-[![Twitter KipyMacho](https://img.shields.io/badge/TwitterKiplyMacho-350%2B-yellow.svg?style=flat)](https://www.twitter.com/kiplymacho)
+[![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/three.bjm.id)
   
-[![Tiktok KiplyMacho](https://img.shields.io/badge/TiktokKiplyMacho-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@kiplymacho)
+[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
 
-[![Facebook KiplyMacho](https://img.shields.io/badge/FacebookKiplyMacho-199%2B-yellow.svg?style=flat)](https://www.facebook.com/g1g1n1n0)
+[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
 
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho)
-  
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-111%2B-yellow.svg?style=flat)](https://www.facebook.com/profile.php?id=100063772334951)
-
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-99%2B-yellow.svg?style=flat)](https://www.facebook.com/profile.php?id=100088881661437)
-  
-[![Clickasnap](https://img.shields.io/badge/Clickasnap-9%2B-yellow.svg?style=flat)](https://www.clickasnap.com/kiplymacho)
-  
-[![Github KiplyMacho](https://img.shields.io/badge/GithubKiplyMacho-7%2B-yellow.svg?style=flat)](https://github.com/kiplymacho)
-
-[![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/confighttpcustomkiplymacho)
-  
-[![Linktr.ee](https://img.shields.io/badge/Linktr.ee-999%2B-yellow.svg?style=flat)](https://linktr.ee/kiplymacho)
-  
-[![SnackVideo](https://img.shields.io/badge/SnackVideo-800%2B-yellow.svg?style=flat)](https://sck.io/u/@giginino/M7jpGo4O)
+[![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/shopeebjm)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-80%2B-yellow.svg?style=flat)](http://www.linkedin.com/in/kiplymacho)
 
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
-<a href="https://github.com/kiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://facebook.com/kiplymachobanjar"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-
+<a href="https://github.com/pukipli"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+  
 <a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 </div>
-<h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
- 
-<h2 align="center">
 
-~_Follow_~
+[![Support](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/shopeebjm)
 
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-200%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+<img width="894" height="914" alt="Image" src="https://github.com/user-attachments/assets/81c5c1d7-2d52-4831-b8a6-b6740116d24e" />
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285182393001)
+# Follow Me :
 
-~_Subscribe_~
-
-[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
-
-[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
+‎‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
+‎<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
+‎<a href="https://linktr.ee/kiplymacho" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
+‎<a href="https://github.com/pukipli" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+‎</p>
+‎‎[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://instagram.com/shopee_banjarmasin)
+‎[![Blog](https://img.shields.io/badge/Website-Visit-yellow?style=for-the-badge&logo=blogger)](https://kiplymacho.blogspot.com)
+‎[![Facebook](https://img.shields.io/badge/Facebook-Like-red?style=for-the-badge&logo=facebook)](https://facebook.com/shopee.bjm)
+‎[![HalamanFacebook](https://img.shields.io/badge/Halaman-Facebook-sky?style=for-the-badge&logo=facebook)](https://facebook.com/httpcustomkiplymacho)
+‎[![WhatsApp](https://img.shields.io/badge/WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285751032225)
+‎[![Telegram](https://img.shields.io/badge/Forum-Diskusi-blue?style=for-the-badge&logo=forum)](https://t.me/shopeebjm)
+‎<a href="https://youtube.com/@shopee_banjarmasin"><img title="YouTube" src="https://img.shields.io/badge/YouTube-@Shopee_Banjarmasin-red?style=for-the-badge&logo=Youtube"></a>
