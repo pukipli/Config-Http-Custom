@@ -18,9 +18,8 @@ Unduh Aplikasi Http Custom Nya Dibawah Ini
 
 👇👇
 
-<a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
-</a>
+<h1 align="center"><a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64"</h1>
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
