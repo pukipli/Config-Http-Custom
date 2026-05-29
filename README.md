@@ -16,10 +16,6 @@
 
 <h1 align="center">Unduh Aplikasi Http Custom Nya Dibawah Ini
 
-<h1 align="center">
-  
-👇👇
-
 <h1 align="center"><a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64"</h1>
 
