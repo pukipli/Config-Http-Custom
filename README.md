@@ -45,10 +45,19 @@ Klik Disini
 # Kumpulan Config Unlock SSH
 
 Klik Disini👉
-[![Config Axis Game](https://img.shields.io/badge/AxisGame-7%2B-blue.svg?style=flat)](https://youtu.be/9TITdO2-UfU)
+[![Config Axis Game](https://img.shields.io/badge/AxisGame-7%2B-blue.svg?style=flat)](https://sfile.co/VSmVyTGqxUo)
 
 Klik Disini👉
-[![Config Telkomsel Edukasi Unlock SSH](https://img.shields.io/badge/TselEdukasi-9%2B-blue.svg?style=flat)](https://youtu.be/OQJfKepO4hU)
+[![Axis TikTok](https://img.shields.io/badge/Axis_TikTok-9%2B-blue.svg?style=flat)](https://sfile.co/HXbKnZiqA9Q)
+
+Klik Disini👉
+[![Three Sosmed & TikTok](https://img.shields.io/badge/Three_Sosmed_&_TikTok-9%2B-blue.svg?style=flat)](https://sfile.co/np3S7oV09Q8)
+
+Klik Disini👉
+[![Axis WhatsApp](https://img.shields.io/badge/Axis_WhatsApp-9%2B-blue.svg?style=flat)](https://sfile.co/MRPQQOM4b3q)
+
+Klik Disini👉
+[![Config Telkomsel Edukasi SSH](https://img.shields.io/badge/TselEdukasi-9%2B-blue.svg?style=flat)](https://youtu.be/OQJfKepO4hU)
 
 Klik Disini👉
 [![Config Indosat Edukasi Unlock SSH](https://img.shields.io/badge/IndosatEdukasi-11%2B-blue.svg?style=flat)](https://youtu.be/HBC9i9z75QA)
