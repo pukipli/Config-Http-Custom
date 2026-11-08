@@ -154,7 +154,7 @@ Klik Disini👉
 <h1 align="center">Follow Me</h1>
 
 ‎‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/three.bjm.id)
-‎<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
+‎<a href="https://tiktok.com/@amang.nino"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
 ‎<a href="https://linktr.ee/kiplymacho" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
 ‎<a href="https://github.com/pukipli" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 ‎</p>
