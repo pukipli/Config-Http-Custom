@@ -90,7 +90,7 @@ Klik Disini👉
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
-<a href="https://github.com/pukipli"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'>
+<a href="https://github.com/pukipli"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
   
 <a
 href="https://facebook.com/three.bjm.id"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
